@@ -68,6 +68,8 @@ python linux-telegram-call.py
 
 
 
+
+
 ### [Windows versiyasi](./Windows-telegram-call)
 - Avvalo windows uchun Wireshark ni o'rnatib olasiz :
 https://www.wireshark.org/download.html
@@ -93,6 +95,11 @@ activate
 cd ..
 cd ..
 ```
+![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/755e82545f95ede7ffab83c739fe8b30fc22c457/photo_2025-05-09_07-14-44.jpg)
+
+
+
+
 - Keyin kerakli kutubxonalarini install qilish mumkin:
 ```shell
 pip3 install -r requirements.txt
