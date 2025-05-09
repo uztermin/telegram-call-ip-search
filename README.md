@@ -20,12 +20,14 @@ git clone https://github.com/uztermin/telegram-call-ip-search.git
 ![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/666981c188d5d45ab601b6dd405a8c786e9283dc/Screenshot%20From%202025-05-09%2004-52-46.png)
 
 
+
 - Keyin shu Directory ga o'tib olasiz:
 ```shell
 cd telegram-call-ip-search
 cd Linux-telegram-call
 ```
 ![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/4a0f515bb51bea7d22e57c128bda184109b2aa1b/Screenshot%20From%202025-05-09%2004-50-52.png)
+
 
 
 - Python yordamida venv muhiti yaratib olishingiz kerak:
@@ -40,6 +42,7 @@ cd ..
 ![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/b2368456d2cc22c776ca6e6dd897a37844eb3051/Screenshot%20From%202025-05-09%2004-55-42.png)
 
 
+
 - Endi kerakli kutubxonalarni install qilib olishingiz zarur:
 ```shell
 pip install -r requirements.txt 
@@ -48,6 +51,10 @@ pip install -r requirements.txt
 ```shell
 pip3 install -r requirements.txt
 ```
+![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/f29bd0dc1e27b47b9d4cbce9fe8d500a65a22060/Screenshot%20From%202025-05-09%2004-56-42.png)
+
+
+
 - Va Kodni ishga tushrishingiz mumkin:
 ```shell
 python linux-telegram-call.py
