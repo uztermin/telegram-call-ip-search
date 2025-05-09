@@ -1,0 +1,8 @@
+folium
+requests
+pyfiglet
+termcolor
+colored
+colorama
+
+
