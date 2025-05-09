@@ -21,12 +21,14 @@ git clone https://github.com/uztermin/telegram-call-ip-search.git
 
 
 
+
 - Keyin shu Directory ga o'tib olasiz:
 ```shell
 cd telegram-call-ip-search
 cd Linux-telegram-call
 ```
 ![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/4a0f515bb51bea7d22e57c128bda184109b2aa1b/Screenshot%20From%202025-05-09%2004-50-52.png)
+
 
 
 
@@ -43,6 +45,8 @@ cd ..
 
 
 
+
+
 - Endi kerakli kutubxonalarni install qilib olishingiz zarur:
 ```shell
 pip install -r requirements.txt 
@@ -55,10 +59,14 @@ pip3 install -r requirements.txt
 
 
 
+
 - Va Kodni ishga tushrishingiz mumkin:
 ```shell
 python linux-telegram-call.py
 ```
+![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/7c4cbda6d9e9a5dbdbf670c61d33ac3023071d18/Screenshot%20From%202025-05-09%2004-57-49.png)
+
+
 
 ### [Windows versiyasi](./Windows-telegram-call)
 - Avvalo windows uchun Wireshark ni o'rnatib olasiz :
