@@ -4,6 +4,8 @@ Ushbu loyiha Creative Commons Attribution-NoDerivatives 4.0 International (CC BY
 
 Bu loyiha Telegram qo'ng'iroqlarini STUN IP manzillarini aniqlab, ularni geolokatsiya qilish imkonini beradi.
 
+## Muallif UZTERMIN
+
 ## Platformaga(OS) ga qarab  Foydalaning :
 
 Siz bu loyihani quyidagi holatlarda ishlatishingiz mumkin:
