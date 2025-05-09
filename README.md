@@ -37,6 +37,9 @@ source activate
 cd ..
 cd ..
 ```
+![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/b2368456d2cc22c776ca6e6dd897a37844eb3051/Screenshot%20From%202025-05-09%2004-55-42.png)
+
+
 - Endi kerakli kutubxonalarni install qilib olishingiz zarur:
 ```shell
 pip install -r requirements.txt 
