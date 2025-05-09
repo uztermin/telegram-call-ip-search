@@ -113,6 +113,11 @@ pip3 install -r requirements.txt
 ```shell
 python win-tg-call.py
 ```
+![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/9abac735800d0dfd2f907b81de384b22c22e4da0/photo_2025-05-09_07-15-12.jpg)
+
+
+
+
 
 ## Mualliflik huquqi
 
