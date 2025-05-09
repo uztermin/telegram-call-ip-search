@@ -18,11 +18,16 @@ sudo apt install git
 git clone https://github.com/uztermin/telegram-call-ip-search.git
 ```
 ![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/666981c188d5d45ab601b6dd405a8c786e9283dc/Screenshot%20From%202025-05-09%2004-52-46.png)
+
+
 - Keyin shu Directory ga o'tib olasiz:
 ```shell
 cd telegram-call-ip-search
 cd Linux-telegram-call
 ```
+![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/4a0f515bb51bea7d22e57c128bda184109b2aa1b/Screenshot%20From%202025-05-09%2004-50-52.png)
+
+
 - Python yordamida venv muhiti yaratib olishingiz kerak:
 ```shell
 python -m venv venv
