@@ -17,6 +17,7 @@ Siz bu loyihani quyidagi holatlarda ishlatishingiz mumkin:
 sudo apt install git
 git clone https://github.com/uztermin/telegram-call-ip-search.git
 ```
+![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/666981c188d5d45ab601b6dd405a8c786e9283dc/Screenshot%20From%202025-05-09%2004-52-46.png)
 - Keyin shu Directory ga o'tib olasiz:
 ```shell
 cd telegram-call-ip-search
