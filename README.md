@@ -104,6 +104,11 @@ cd ..
 ```shell
 pip3 install -r requirements.txt
 ```
+![image alt](https://github.com/uztermin/telegram-call-ip-search/blob/f24751f3db1829fbcf6dfae2c96311e7c1ed40ee/photo_2025-05-09_07-15-07.jpg)
+
+
+
+
 - Va tayyor kodni ishga tushurishingiz mumkin:
 ```shell
 python win-tg-call.py
