@@ -71,7 +71,10 @@ python linux-telegram-call.py
 ### [Windows versiyasi](./Windows-telegram-call)
 - Avvalo windows uchun Wireshark ni o'rnatib olasiz :
 https://www.wireshark.org/download.html
+
 ![image](https://github.com/uztermin/telegram-call-ip-search/blob/29cca875fbe6fd3accbae1f3b92c21179e1aef0e/photo_2025-05-09_07-15-17.jpg)
+
+
 
 
 
